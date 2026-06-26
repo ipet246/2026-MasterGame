@@ -25,13 +25,13 @@ https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 
 # Paso_3
 
-##Hacer click derecho en el archivo y darle click en Extraer todo
+## Hacer click derecho en el archivo y darle click en Extraer todo
 <img width="1166" height="696" alt="image" src="https://github.com/user-attachments/assets/8cfb4229-f8b5-48c2-95f8-26d372c6f00f" />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Paso_4
 
-##Hacer click en el boton extraer
+## Hacer click en el boton extraer
 <img width="701" height="596" alt="image" src="https://github.com/user-attachments/assets/5f2da681-4821-4400-98ad-2820dafd1989" />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
