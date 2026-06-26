@@ -6,17 +6,17 @@ https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 ------------------------------------------------------------------------------------------------------
 ## --INPORTANTE--
 
-. No muevas los juegos de las carpetas por lo que no va a funcionar los .json que funcionan para la configuracion y los puntajes de las tablas
+### No muevas los juegos de las carpetas por lo que no va a funcionar los .json que funcionan para la configuracion y los puntajes de las tablas
 
 ## -PASOS DE INSTALACION-
 
-#PASO_1
+# PASO_1
 
 ##Dar click en download para descargar el archivo .zip
 
 <img width="1882" height="952" alt="image" src="https://github.com/user-attachments/assets/23d78aed-af5e-4a30-a7c4-ee5132dbaba9" />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Paso_2
+# Paso_2
 
 ## Dar click en guardar
 <img width="1167" height="750" alt="Captura de pantalla 2026-06-26 173649" src="https://github.com/user-attachments/assets/f2b0775a-f6a1-4ed1-9ade-824ac0c6d980" />
