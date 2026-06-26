@@ -12,7 +12,7 @@ https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 
 # PASO_1
 
-##Dar click en download para descargar el archivo .zip
+## Dar click en download para descargar el archivo .zip
 
 <img width="1882" height="952" alt="image" src="https://github.com/user-attachments/assets/23d78aed-af5e-4a30-a7c4-ee5132dbaba9" />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
