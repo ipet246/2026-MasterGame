@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------
 https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 ------------------------------------------------------------------------------------------------------
-<img width="420" height="407" alt="explicacion" src="https://github.com/user-attachments/assets/888f66a8-8830-4128-9c83-1034e3242086" />
+<img width="220" height="207" alt="explicacion" src="https://github.com/user-attachments/assets/888f66a8-8830-4128-9c83-1034e3242086" />
 
 
 
