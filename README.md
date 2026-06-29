@@ -1,6 +1,7 @@
 # 2026-MasterGame
 
-### De los creadores de J.A.L llega MasterGame uno de los juegos que va estar en la Feria hecho con mucho cariño aqui el enlace para descarlo y jugarlo estan aqui abajo 
+### De los creadores de J.A.L llega MasterGame uno de los juegos que va estar en la Feria hecho con mucho cariño
+### -LINK DE DESCARGA-  
 ------------------------------------------------------------------------------------------------------
 https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 ------------------------------------------------------------------------------------------------------
