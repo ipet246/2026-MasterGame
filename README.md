@@ -1,10 +1,15 @@
 # 2026-MasterGame
 
 ### De los creadores de J.A.L llega MasterGame uno de los juegos que va estar en la Feria hecho con mucho cariño
-### -LINK DE DESCARGA-  
+### -LINK DE DESCARGA (VERCION CON CONSOLA)-  
 ------------------------------------------------------------------------------------------------------
 https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 ------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+### -LINK DE DESCARGA-(VERCION SIN CONSOLA)
+https://www.mediafire.com/file/ggcn12970y90elq/MasterGame-SIN_CONSOLA.zip/file
+-----------------------------------------------------------------------------------------------------
 ## --INPORTANTE--
 
 ### No muevas los juegos de las carpetas por lo que no va a funcionar los .json que funcionan para la configuracion y los puntajes de las tablas
