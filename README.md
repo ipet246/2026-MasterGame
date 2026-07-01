@@ -48,6 +48,6 @@ https://www.mediafire.com/file/ggcn12970y90elq/MasterGame-SIN_CONSOLA.zip/file
 <img width="1007" height="132" alt="Captura de pantalla 2026-06-26 183453" src="https://github.com/user-attachments/assets/2286e5b6-0930-4541-ac7d-bfd9642a6c1f" />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Y listo puedes jugar MaterGame y MathFlash (esto se abre como cualquier aplicacion)
+## Y listo puedes jugar MaterGame y MathFlash (esto se abre como cualquier aplicacion/.exe)
 <img width="1885" height="1005" alt="image" src="https://github.com/user-attachments/assets/9f552bef-c7c5-4681-a3ee-3f1427a30bff" />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
