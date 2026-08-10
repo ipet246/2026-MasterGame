@@ -7,7 +7,7 @@ https://www.mediafire.com/file/6yws4qgp714fotp/MasterGame.zip/file
 ------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------
-### -LINK DE DESCARGA-(VERCION SIN CONSOLA)
+### -LINK DE DESCARGA-(VERCION SIN CONSOLA) Vercion_recomendada :)
 https://www.mediafire.com/file/ggcn12970y90elq/MasterGame-SIN_CONSOLA.zip/file
 -----------------------------------------------------------------------------------------------------
 ## --INPORTANTE--
